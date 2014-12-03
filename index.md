@@ -35,4 +35,4 @@ luogo:
 <img src='img/loader.gif' data-src="gallery/albertosara-web-26.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/albertosara-web-27.jpg" class="" />
 
-[La partecipazione online](partecipazione)
+## [La partecipazione online](partecipazione)
