@@ -13,7 +13,6 @@ luogo:
 <img src='img/loader.gif' data-src="gallery/albertosara-web-3.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/albertosara-web-4.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/albertosara-web-5.jpg" class="" />
-<img src='img/loader.gif' data-src="gallery/albertosara-web-6.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/albertosara-web-7.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/albertosara-web-8.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/albertosara-web-9.jpg" class="" />
